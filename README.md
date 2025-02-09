@@ -2,8 +2,8 @@
 - This is a code to access journal articles and extract the text, then search the text for interesting information by choosing your topic's keywords, and search year(s). 
 - The capabilities of this approach are shown by data extraction for the "Dry Methane Reforming" (DMR) reaction.
 - The code compromise of two files of 4 different parts:
--   Parts 1 and 2 apply three filters (on the title, the keywords, and the abstract). The result of these parts is an Excel file with (n) rows for articles and (  DOI ----- Title --- Abstract --- publication date keywords ) for each article, as columns.
--   Parts 3 and 4 apply the first 3 applications, then extract the full text of the articles, then apply the last two applications
+  * Parts 1 and 2 apply three filters (on the title, the keywords, and the abstract). The result of these parts is an Excel file with (n) rows for articles and (  DOI ----- Title --- Abstract --- publication date keywords ) for each article, as columns.
+  * Parts 3 and 4 apply the first 3 applications, then extract the full text of the articles, then apply the last two applications
 
 1: Access the publications using your own API and institution keys.
 
