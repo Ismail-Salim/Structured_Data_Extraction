@@ -16,10 +16,10 @@
 5: The "topic_analysis" parameter is a string used to name the results, so it is advised to choose a representative name for your topic.
 
 6: The results of the applications are automatically saved into your folder, choose the application of interest from below five applications.
-  6.1	Application 1: Analyze the abstract.
-  6.2	Application 2: Targeted search of the abstract.
-  6.3	Application 3: Targeted search of the titles and keywords.
-  6.4	Application 4: Full-text: Characterization techniques search.
-  6.5	Application 5: Full-text: Extract a particular section of the articles.
+  - 6.1	Application 1: Analyze the abstract.
+  - 6.2	Application 2: Targeted search of the abstract.
+  - 6.3	Application 3: Targeted search of the titles and keywords.
+  - 6.4	Application 4: Full-text: Characterization techniques search.
+  - 6.5	Application 5: Full-text: Extract a particular section of the articles.
 
 This code is part of the journal article publication ...... Please cite according to the following .... ### (Edit line after publication) ###
